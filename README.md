@@ -4,3 +4,5 @@ This is a reimagining of the casio fx-cg20 housing, made for people who also thi
 
 In this repository you will find all necesary files to recreate your own version of this housing, thank you for reading and ask help if you need it
 Made using SOLIDWORKS 2025
+
+![IMG_6698](https://github.com/user-attachments/assets/07f36b15-1d16-47d2-903c-017ef2243feb)
